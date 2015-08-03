@@ -1,0 +1,165 @@
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-08-03"
+    steps: 33
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 3000
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-08-02"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-08-01"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-31"
+    steps: 76
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 9500
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-30"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 4100
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-29"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-28"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-27"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-26"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-25"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-24"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-23"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-22"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-21"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
+- model: vendor.ADSummary
+  fields:
+    deviceid: 2050010611
+    date: "2015-07-20"
+    steps: 0
+    active steps: 0
+    exercise: 0
+    jog: 0
+    total_cal: 0
+    active_cal: 0
+    burned_cal: 0
